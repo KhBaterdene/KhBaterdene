@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhBaterdene
 - 👀 I’m interested in Front-end
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Backen
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
